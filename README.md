@@ -447,9 +447,9 @@ AR-Training-System/
 | File | Description |
 |---|---|
 | `Unity_Scripts_Overview.docx` | Overview and documentation of the Unity scripts used in the project. |
-| `Final_Survey.xlsx` | Questionnaire and pilot-study data. |
+| `Final_Survey.xlsx` | Processed questionnaire results from the PBAR pilot study, including presence and immersion, cybersickness, training experience, and System Usability Scale (SUS) results. |
 | `Survey_Comparison_Analysis.xlsx` | Analysis and comparison of questionnaire results. |
-| `Survey_UNIVPMtoAACHEN.xlsx` | Mapping between the questionnaire used in the original VR study and the questionnaire used in the PBAR study. |
+| `Survey_UNIVPMtoAACHEN.xlsx` | Processed results from the three questionnaire sections used in the original VR study: presence and immersion, cybersickness, and training experience. |
 | `How to Use the Unity Projection System.pdf` | Documentation for configuring and using the Unity projection system. |
 | `Validation_of_OffAxisProjection_Accuracy.pdf` | Geometric validation of the implemented off-axis projection method. |
 | `Participant Information and Consent Form.pdf` | Participant information and consent material used for the pilot study. |
