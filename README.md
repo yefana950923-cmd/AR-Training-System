@@ -554,11 +554,13 @@ https://github.com/yefana950923-cmd/AR-Training-System
 
 I would like to express my sincere gratitude to **Qirui Huang** for his dedicated supervision, careful guidance, and valuable feedback throughout the development of this project and the preparation of my Master's thesis. His support and rigorous approach were highly valuable to this work.
 
+I would also like to sincerely thank **Arianna Latini**, my co-supervisor from **Marche Polytechnic University (UNIVPM)**, for her valuable support, feedback, and for providing the basis of the original VR-based energy-saving training system on which this work builds.
+
 This project was developed as part of a Master's thesis at **RWTH Aachen University** and carried out at the **Institute of Energy Efficiency and Sustainable Building (E3D)**.
 
-The work builds upon an existing VR-based energy-saving training system developed by researchers at **Marche Polytechnic University (UNIVPM)**.
+The work builds upon an existing VR-based energy-saving training system developed at **Marche Polytechnic University (UNIVPM)**.
 
-I would also like to thank all supervisors and researchers who contributed to and supported the development, adaptation, and evaluation of the PBAR training system.
+I would also like to thank all other supervisors and researchers who contributed to and supported the development, adaptation, and evaluation of the PBAR training system.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
